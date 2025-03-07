@@ -10,7 +10,7 @@ But with changes in regulations, updates in trading technology, and evolving use
 
 
 
-![image]()
+![image](https://github.com/Trader-review/SmartSTP-review-2025/blob/e2edc66f9c268efa586e46f540b9b4dc1a680519/SmartSTP-logo.png)
 
 Key Updates and Changes in 2025
 --------------------
